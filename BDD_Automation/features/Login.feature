@@ -1,4 +1,4 @@
-Feature: Guru Demo site Login 
+Feature: Demo site Login 
 
 Scenario: Demo site Login Scenarios1 
 
