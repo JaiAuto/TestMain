@@ -12,6 +12,7 @@ plugin= {"html:test-outout","json:json_output/test.json","junit:junit_xml/test.x
 monochrome=true,//to see the output in console window in a format.
 strict=true,// failed if there is any unimplemented method 
 dryRun=false//to check if there is any unimplemented method test
+//Test Git
 )
 public class FeatureRunner {
 
