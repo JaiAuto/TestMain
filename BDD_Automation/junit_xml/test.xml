@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="32.669585">
+<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios1" time="10.437661">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When site of login page is Demo.............................................passed
+Then User enters login name as "test" and enters password as "test".........passed
+And User clicks on Login Button.............................................passed
+Then User should be able to login...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2" time="7.793113">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When site of login page is Demo.............................................passed
+Then User enters login name as "test" and enters password as "test".........passed
+And User clicks on Login Button.............................................passed
+Then User should be able to login...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2 2" time="7.285933">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When site of login page is Demo.............................................passed
+Then User enters login name as "test" and enters password as "test".........passed
+And User clicks on Login Button.............................................passed
+Then User should be able to login...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2 3" time="7.152878">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When site of login page is Demo.............................................passed
+Then User enters login name as "test" and enters password as "test".........passed
+And User clicks on Login Button.............................................passed
+Then User should be able to login...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
