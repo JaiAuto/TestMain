@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="32.669585">
-<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios1" time="10.437661">
-<system-out><![CDATA[Given User is already on login page.........................................passed
-When site of login page is Demo.............................................passed
-Then User enters login name as "test" and enters password as "test".........passed
-And User clicks on Login Button.............................................passed
-Then User should be able to login...........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2" time="7.793113">
-<system-out><![CDATA[Given User is already on login page.........................................passed
-When site of login page is Demo.............................................passed
-Then User enters login name as "test" and enters password as "test".........passed
-And User clicks on Login Button.............................................passed
-Then User should be able to login...........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2 2" time="7.285933">
-<system-out><![CDATA[Given User is already on login page.........................................passed
-When site of login page is Demo.............................................passed
-Then User enters login name as "test" and enters password as "test".........passed
-And User clicks on Login Button.............................................passed
-Then User should be able to login...........................................passed
-]]></system-out>
-</testcase>
-<testcase classname="Guru Demo site Login" name="Demo site Login Scenarios2 3" time="7.152878">
-<system-out><![CDATA[Given User is already on login page.........................................passed
-When site of login page is Demo.............................................passed
-Then User enters login name as "test" and enters password as "test".........passed
-And User clicks on Login Button.............................................passed
-Then User should be able to login...........................................passed
-]]></system-out>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="test Launch Appication" name="logging into application" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User is launching application in browser with url.....................undefined
+When User enters user name in username field................................undefined
+And User enters Password in password field..................................undefined
+Then User clicks on login button............................................undefined
+And User verifies if he is in Login Page....................................undefined
+]]></failure>
 </testcase>
 </testsuite>

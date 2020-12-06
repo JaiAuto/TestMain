@@ -1,5 +1,6 @@
 Feature: Demo site Login 
 
+@57-test
 Scenario: Demo site Login Scenarios1 
 
 	Given User is already on login page 

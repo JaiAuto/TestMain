@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features= "features",//adding feature files
+@CucumberOptions(features= "features/testFeature.feature",//adding feature files
 glue= {"DefinedSteps"},//adding class files
 plugin= {"html:test-outout","json:json_output/test.json","junit:junit_xml/test.xml"},//Generating reports in different formats
 monochrome=true,//to see the output in console window in a format.
